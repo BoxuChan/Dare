@@ -1,0 +1,23 @@
+[
+  {
+      "Author": "BoxuChan",
+      "Name": "Dare",
+      "InternalName": "Dare",
+      "AssemblyVersion": "0.11.22",
+      "Description": "Mare Synchronos Edit to allow MCDF Exporting using local files.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/BoxuChan/Dare",
+      "Tags": [
+        "Dare"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/BoxuChan/repo/main/MareSynchronos/images/icon.png",
+      "Punchline": "Mare Synchronos Edit to allow MCDF Exporting using local files.",
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadLinkInstall": "https://github.com/BoxuChan/Dare/releases/download/0.11.22/Dare.zip",
+      "DownloadLinkTesting": "https://github.com/BoxuChan/Dare/releases/download/0.11.22/Dare.zip",
+      "DownloadLinkUpdate": "https://github.com/BoxuChan/Dare/releases/download/0.11.22/Dare.zip"
+    }
+]
