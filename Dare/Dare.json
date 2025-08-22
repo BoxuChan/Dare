@@ -1,0 +1,13 @@
+{
+  "Author": "BoxuChan",
+  "Name": "Dare",
+  "Punchline": "Mare Synchronos Edit to allow MCDF Exporting using local files.",
+  "Description": "Mare Synchronos Edit to allow MCDF Exporting using local files.",
+  "InternalName": "Dare",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Dare"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/BoxuChan/client/main/MareSynchronos/images/logo.png",
+  "RepoUrl": "https://github.com/BoxuChan/Dare"
+}
